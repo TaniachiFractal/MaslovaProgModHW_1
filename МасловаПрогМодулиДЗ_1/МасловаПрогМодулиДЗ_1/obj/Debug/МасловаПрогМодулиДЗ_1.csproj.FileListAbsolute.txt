@@ -1,0 +1,17 @@
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\bin\Debug\МасловаПрогМодулиДЗ_1.exe.config
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\bin\Debug\МасловаПрогМодулиДЗ_1.exe
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\bin\Debug\МасловаПрогМодулиДЗ_1.pdb
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\obj\Debug\МасловаПрогМодулиДЗ_1.csprojAssemblyReference.cache
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\obj\Debug\МасловаПрогМодулиДЗ_1.Task1.resources
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\obj\Debug\МасловаПрогМодулиДЗ_1.Properties.Resources.resources
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\obj\Debug\МасловаПрогМодулиДЗ_1.csproj.GenerateResource.cache
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\obj\Debug\МасловаПрогМодулиДЗ_1.csproj.CoreCompileInputs.cache
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\obj\Debug\МасловаПрогМодулиДЗ_1.exe
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\obj\Debug\МасловаПрогМодулиДЗ_1.pdb
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\obj\Debug\МасловаПрогМодулиДЗ_1.Task2.resources
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\obj\Debug\МасловаПрогМодулиДЗ_1.Task3.resources
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\obj\Debug\МасловаПрогМодулиДЗ_1.Task4.resources
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\obj\Debug\МасловаПрогМодулиДЗ_1.Task5.resources
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\obj\Debug\МасловаПрогМодулиДЗ_1.Task6.resources
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\obj\Debug\МасловаПрогМодулиДЗ_1.Task7.resources
+C:\Users\Tania\Documents\Other things\ProgModRepos\МасловаПрогМодулиДЗ_1\МасловаПрогМодулиДЗ_1\obj\Debug\МасловаПрогМодулиДЗ_1.Task8.resources
